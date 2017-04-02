@@ -1,5 +1,5 @@
 # MAX7219-4-in-1
-Modified sketch & libraries (originally by Nick Gammon) to support Eclipse IDE plus extra functions
+Various files to support video #80 Scrolling LED Matrix here: https://www/youtube.com/c/RalphBacon
 
 =======================================
 125kHz RFID links     125kHz RFID links  
@@ -17,6 +17,7 @@ https://github.com/Seeed-Studio/RFID_Library
 =======================================
 MAX7219 LED links     MAX7219 LED links  
 =======================================
+Modified sketch & libraries (originally by Nick Gammon) to support Eclipse IDE plus extra functions
 
 Hobby Components forum article on the MAX7219
 http://forum.hobbycomponents.com/viewtopic.php?f=58&t=1794
