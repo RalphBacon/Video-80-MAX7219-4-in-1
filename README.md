@@ -1,9 +1,9 @@
 # MAX7219-4-in-1
 Modified sketch & libraries (originally by Nick Gammon) to support Eclipse IDE plus extra functions
 
-=============================================================================================
-125kHz RFID links     125kHz RFID links     125kHz RFID links     125kHz RFID links
-=============================================================================================
+=============================================================================================  
+125kHz RFID links     125kHz RFID links     125kHz RFID links     125kHz RFID links  
+=============================================================================================  
 
 http://blog.deconinck.info/post/2015/04/22/RFID-reader-comparison-HZ-1050-vs-RDM6300
 
@@ -14,9 +14,9 @@ RDM6300 125Khz RFID library (software serial so you can still upload code using 
 https://github.com/Seeed-Studio/RFID_Library
 
 
-=============================================================================================
+=============================================================================================  
 MAX7219 LED links        MAX7219 LED links        MAX7219 LED links         MAX7219 LED links          
-=============================================================================================
+=============================================================================================  
 
 Hobby Components forum article on the MAX7219
 http://forum.hobbycomponents.com/viewtopic.php?f=58&t=1794
